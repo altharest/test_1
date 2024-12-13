@@ -1,1 +1,1 @@
-clone testing
+clone test
